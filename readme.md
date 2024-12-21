@@ -5,6 +5,8 @@ This project incentivizes users to upload educational tutorials to decentralized
 
 ## Contract Address
 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+![image](https://github.com/user-attachments/assets/f8f4b751-cabc-442f-be5f-6de9e6bc099c)
+
 
 ## Project Vision
 To create a decentralized ecosystem where educators are rewarded for sharing knowledge, fostering a community-driven approach to learning, and encouraging the proliferation of educational content on decentralized platforms.
